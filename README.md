@@ -1,7 +1,7 @@
 # Vulnerability Assessment Report
 
 ## Website Tested
-demo.testfire.net
+http://demo.testfire.net
 
 ## Scope
 - Public pages only
